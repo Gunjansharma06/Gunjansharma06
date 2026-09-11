@@ -157,8 +157,7 @@ I'm always open to connecting with developers, recruiters, students, and profess
 **LinkedIn:**
 https://www.linkedin.com/in/gunjan-sharma-241138428
 
-**GitHub:**
-https://github.com/YOUR_USERNAME
+
 
 ---
 
